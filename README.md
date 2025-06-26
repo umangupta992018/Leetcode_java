@@ -31,6 +31,7 @@ Leetcode problems
 | [0006-zigzag-conversion](https://github.com/umangupta992018/Leetcode_java/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/umangupta992018/Leetcode_java/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/umangupta992018/Leetcode_java/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/umangupta992018/Leetcode_java/tree/master/0022-generate-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +44,9 @@ Leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/umangupta992018/Leetcode_java/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/umangupta992018/Leetcode_java/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/umangupta992018/Leetcode_java/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
