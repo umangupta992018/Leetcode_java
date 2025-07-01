@@ -49,4 +49,12 @@ Leetcode problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/umangupta992018/Leetcode_java/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/umangupta992018/Leetcode_java/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/umangupta992018/Leetcode_java/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
