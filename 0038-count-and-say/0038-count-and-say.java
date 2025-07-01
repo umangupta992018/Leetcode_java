@@ -8,6 +8,7 @@ class Solution {
         StringBuilder res = new StringBuilder();
         // String res="";
         int counter = 0;
+        // System.out.println(say.length());
         for(int i=0;i<say.length();i++)
         {
             counter++;
