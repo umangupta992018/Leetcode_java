@@ -32,6 +32,7 @@ Leetcode problems
 | [0008-string-to-integer-atoi](https://github.com/umangupta992018/Leetcode_java/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/umangupta992018/Leetcode_java/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/umangupta992018/Leetcode_java/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/umangupta992018/Leetcode_java/tree/master/0038-count-and-say) |
 ## Math
 |  |
 | ------- |
