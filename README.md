@@ -13,6 +13,7 @@ Leetcode problems
 | [0039-combination-sum](https://github.com/umangupta992018/Leetcode_java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/umangupta992018/Leetcode_java/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/umangupta992018/Leetcode_java/tree/master/0045-jump-game-ii) |
+| [0118-pascals-triangle](https://github.com/umangupta992018/Leetcode_java/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Leetcode problems
 | [0005-longest-palindromic-substring](https://github.com/umangupta992018/Leetcode_java/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/umangupta992018/Leetcode_java/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/umangupta992018/Leetcode_java/tree/master/0045-jump-game-ii) |
+| [0118-pascals-triangle](https://github.com/umangupta992018/Leetcode_java/tree/master/0118-pascals-triangle) |
 ## Backtracking
 |  |
 | ------- |
