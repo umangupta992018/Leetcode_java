@@ -48,6 +48,7 @@ Leetcode problems
 | ------- |
 | [0012-integer-to-roman](https://github.com/umangupta992018/Leetcode_java/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/umangupta992018/Leetcode_java/tree/master/0043-multiply-strings) |
+| [0231-power-of-two](https://github.com/umangupta992018/Leetcode_java/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/umangupta992018/Leetcode_java/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/umangupta992018/Leetcode_java/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -83,4 +85,8 @@ Leetcode problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/umangupta992018/Leetcode_java/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/umangupta992018/Leetcode_java/tree/master/0045-jump-game-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/umangupta992018/Leetcode_java/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
