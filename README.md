@@ -14,12 +14,14 @@ Leetcode problems
 | [0040-combination-sum-ii](https://github.com/umangupta992018/Leetcode_java/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/umangupta992018/Leetcode_java/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/umangupta992018/Leetcode_java/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/umangupta992018/Leetcode_java/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/umangupta992018/Leetcode_java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/umangupta992018/Leetcode_java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/umangupta992018/Leetcode_java/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/umangupta992018/Leetcode_java/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +34,7 @@ Leetcode problems
 | ------- |
 | [0015-3sum](https://github.com/umangupta992018/Leetcode_java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/umangupta992018/Leetcode_java/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/umangupta992018/Leetcode_java/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -93,4 +96,12 @@ Leetcode problems
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/umangupta992018/Leetcode_java/tree/master/0182-duplicate-emails) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/umangupta992018/Leetcode_java/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/umangupta992018/Leetcode_java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
