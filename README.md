@@ -89,4 +89,8 @@ Leetcode problems
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/umangupta992018/Leetcode_java/tree/master/0231-power-of-two) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/umangupta992018/Leetcode_java/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
