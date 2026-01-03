@@ -47,6 +47,7 @@ Leetcode problems
 | [0022-generate-parentheses](https://github.com/umangupta992018/Leetcode_java/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/umangupta992018/Leetcode_java/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/umangupta992018/Leetcode_java/tree/master/0043-multiply-strings) |
+| [0071-simplify-path](https://github.com/umangupta992018/Leetcode_java/tree/master/0071-simplify-path) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Leetcode problems
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/umangupta992018/Leetcode_java/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/umangupta992018/Leetcode_java/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
